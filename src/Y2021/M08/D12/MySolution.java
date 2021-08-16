@@ -7,7 +7,7 @@ public class MySolution {
 
     public int countDigitOne(int n)
     {
-        return 0;
+        return 1;
     }
 
     public static void main(String[] args)
